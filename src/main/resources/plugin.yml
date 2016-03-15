@@ -1,0 +1,6 @@
+name: GriefEXHP
+version: 0.3.1
+main: jp.dip.kazu0617.griefexhp.GriefEXHP
+commands:
+    gexhp:
+        description: to use command
